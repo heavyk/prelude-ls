@@ -1,6 +1,11 @@
 {
   "name": "prelude-ls",
+  "repo": "heavyk/prelude-ls",
+  "description": "a JavaScript functional programming library",
   "version": "0.6.0",
   "main": "prelude.js",
+  "scripts": [
+  	"prelude.js"
+  ],
   "dependencies": { }
 }
